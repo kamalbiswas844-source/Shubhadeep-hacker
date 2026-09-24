@@ -6,5 +6,9 @@ pkg update && pkg upgrade
 ~~~
 pkg install git
 pkg install python
-git clone
-~~~
+git clone https://github.com/kamalbiswas844-source/Shubhadeep-hacker.git
+cd Shubhadeep-hacker
+bash setup.sh
+python hacker-sb.py
+~~~~
+# start and injoy wordlist (hackers)
